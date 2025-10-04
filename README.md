@@ -1,4 +1,4 @@
-# 📠 RAG Agent with Database Routing
+#  RAG Agent with Database Routing
 
 A Streamlit application that demonstrates an advanced implementation of RAG Agent with intelligent query routing. The system combines multiple specialized databases with smart fallback mechanisms to ensure reliable and accurate responses to user queries.
 
